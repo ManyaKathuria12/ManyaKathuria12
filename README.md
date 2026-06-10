@@ -1,4 +1,4 @@
-# Hi, I'm Manya Kathuria 👋
+# Hi, I'm Manya Kathuria 
 
 🎓 Final-Year Computer Science Engineering Student
 
@@ -10,12 +10,12 @@
 - Express.js
 - MongoDB
 - JavaScript
-- C++
+- Java
 
 🏆 Achievements
 - Smart India Hackathon (SIH) 2024 Participant
 - HackWithHer 2.0 Participant
 
 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- LinkedIn: https://www.linkedin.com/in/manya-kathuria/
 - Email: manyakathuria12@gmail.com
