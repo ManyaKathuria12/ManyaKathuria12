@@ -11,7 +11,7 @@
 - MongoDB
 - JavaScript
 - Java
-- HTML, CSS, Bootstrap
+- HTML, CSS
 
 ## Projects
 - Cliento – CRM Web Application
